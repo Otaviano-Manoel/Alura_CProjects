@@ -1,0 +1,54 @@
+# Arquivos binários
+*.exe
+*.out
+*.dll
+*.so
+*.dylib
+
+# Arquivos objeto
+*.o
+*.obj
+
+# Arquivos de depuração
+*.pdb
+*.idb
+
+# Arquivos de log e temporários
+*.log
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Diretórios de build
+/build/
+/bin/
+/obj/
+.vscode/
+
+# Arquivos de IDEs
+# Visual Studio
+.vscode/
+*.vcxproj*
+*.sln
+*.suo
+*.ncb
+*.user
+*.psess
+*.pdb
+
+# Code::Blocks
+*.layout
+*.depend
+*.cbp
+
+# CLion/JetBrains
+.idea/
+cmake-build-*/
+
+# MacOS
+.DS_Store
+
+# Outros
+*.bak
+*~
