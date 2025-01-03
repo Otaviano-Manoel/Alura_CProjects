@@ -44,27 +44,11 @@ Inspirado no clássico jogo Pacman, onde o jogador controla um personagem que de
 - Manipulação de matrizes para criação de mapas.
 - Controle de fluxo para movimentação e interação.
 
-## Como Executar
-
-1. Certifique-se de ter um compilador C instalado (como GCC).
-2. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/c-projetos-alura.git
-   ```
-3. Navegue até o diretório de um dos projetos e compile o arquivo principal:
-   ```bash
-   gcc main.c -o projeto
-   ```
-4. Execute o programa:
-   ```bash
-   ./projeto
-   ```
-
 ## Contribuição
 Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias e sugestões.
 
 ## Licença
-Este repositório é licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este repositório é licenciado sob a licença MIT. Veja o arquivo [CC0](https://creativecommons.org/public-domain/cc0/) para mais detalhes.
 
 ---
 
