@@ -43,14 +43,8 @@ Inspirado no clássico jogo Pacman, onde o jogador controla um personagem que de
 #### Tecnologias utilizadas:
 - Manipulação de matrizes para criação de mapas.
 - Controle de fluxo para movimentação e interação.
-
-## Contribuição
-Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias e sugestões.
-
-## Licença
-Este repositório é licenciado sob a licença MIT. Veja o arquivo [CC0](https://creativecommons.org/public-domain/cc0/) para mais detalhes.
-
+  
 ---
 
-**Desenvolvido durante o curso de C da [Alura](https://www.alura.com.br/).**
+**Desenvolvido durante o curso de C da [Alura](https://cursos.alura.com.br/user/otavianomanoelvasconcelos).**
 
